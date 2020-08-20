@@ -31,7 +31,7 @@ return [
     'Show meta' => 'Mostrar meta',
     'Load and show information from linked fact' => 'Carregar e exibir informação do fato relacionado',
     'Show tab' => 'Exibir aba',
-    'Show tab on individuals page' => 'Exbir aba na página pessoal',
+    'Show tab on individuals page' => 'Exibir aba na página pessoal',
     //Config: Table
     //'Media' => 'Mídia',
     //'Notes' => 'Notas',
